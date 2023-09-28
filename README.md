@@ -4,3 +4,4 @@ how to download and use open the batch file get somebodys ip address past it in 
 
 and this isnt a virus i have pics in the discord https://discord.gg/33reAUskpk
 
+brute ddosing tool but BETTER
