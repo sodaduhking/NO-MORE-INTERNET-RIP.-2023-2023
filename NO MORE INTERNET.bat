@@ -2,7 +2,7 @@
 
 color 5
 
-title da bomb ip pinger
+title It DoSeNt WoRk
 
 :greeting
 cls
