@@ -7,7 +7,7 @@ title da bomb ip pinger
 :greeting
 cls
 
-echo it doesnt work any more
+echo it doesnt work any more go TOUCH SOME FUCKING GRASS KID
 
 :top
 GoTo top
