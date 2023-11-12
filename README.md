@@ -14,4 +14,4 @@ how to download and use open the batch file get somebodys ip address past it in 
 ![Screenshot 2023-11-11 200904](https://github.com/sodaduhking/NO-MORE-INTERNET/assets/144399207/6a88922f-a3d3-463d-9d8d-a45846ee3ea9)
 
 
-brute ddosing tool but BETTER
+
